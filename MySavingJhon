@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>MySaving</title>
+	<link href="style.css" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+
+	<header>
+		<div class="logotipo">
+			<a href='index.html'><img src="imagen/MySaving.png" width="250" height="150">
+		</div>
+		<nav class="navegacion">
+			<ul class="menu">
+				<li><a href="index.html">INICIO</a></li>
+				<li><a href="index.html">PERSONA</a>
+					<ul class="submenu">
+				        <li><a href="index.html">Cuenta Corriente> </a></li>
+			       	    <li><a href="index.html">Cuenta de Ahorros> </a></li>
+				        <li><a href="index.html">Tarjeta Debito> </a></li>
+			         	<li><a href="index.html">Tarjeta Credito></a></li>
+				        <li><a href="index.html">CDT Inversion></a></li>
+				        <li><a href="index.html">Portafolio Vivienda></a></li>
+				        <li><a href="index.html">Tasas y Tarifas></a></li>
+				        <li><a href="index.html">Seguros></a></li>
+			       </ul>
+		           </li>
+			    	<li><a href="index.html">EMPRESA</a>
+				   <ul class="submenu">
+				        <li><a href="index.html">Banca Pyme> </a></li>
+			       	    <li><a href="index.html">Banca Mediana  Empresa> </a></li>
+				        <li><a href="index.html">Banca Empresarial> </a></li>
+			         	<li><a href="index.html">Banca Corporativa></a></li>
+				        <li><a href="index.html">Banca Institucional></a></li>
+				        <li><a href="index.html">Banca Oficial></a></li>
+				        <li><a href="index.html">Banca Social></a></li>
+				        <li><a href="index.html">Banca Inernacional></a></li>
+			       </ul></li>
+				<li><a href="index.html">SERVICIO AL CLIENTE</a>
+				<ul class="submenu">
+				        <li><a href="index.html">Turno Digital> </a></li>
+			       	    <li><a href="index.html">Banca Virtual> </a></li>
+				        <li><a href="index.html">App MySaving> </a></li>
+			         	<li><a href="index.html">Beneficios Y Alianzas></a></li>
+				        <li><a href="index.html">Contactenos></a></li>
+				        </ul></li>
+				  <li><a href="simulador.html">SIMULADOR CREDITO</a>      
+				<li><a href="index.html">INGRESAR</a></li>
+				<li><a href="index.html">REGISTRARSE</a></li>
+			</ul>
+		</nav>
+	</header>
+	<section class="main">
+		<section class="sede1">
+			<article>
+				<H2><a href="index.html">NUESTROS CANALES DE ATENCION</a></li>
+				</H2>
+				<ul>
+					<li><a href="index.html">OFICINAS </a></li>
+					<li><a href="index.html">CAJEROS </a></li>
+					<li><a href="index.html">CORRESPONSALES BANCARIOS</a></li>
+					
+				</ul>
+
+			</article>
+
+		</section>
+
+		<section class="articles">
+			<article>
+				<h2>BIENVENIDOS</h2>
+				
+			<a href="imagen/1.png"><img src="imagen/1.png"   title="SEDE BOGOTA" width="70%"  >
+			</article>
+			
+				
+					
+		</section>
+		<aside>
+			<section class="sede2">
+			<h2><a href="index.html">QUE DESEAS HACER</a></li></h2>
+				<ul>
+					<li><a href="index.html">PAGO TARJETA CREDITO</a></li>
+					<li><a href="index.html">PAGO POR PSE </a></li>
+					<li><a href="index.html">SOLICITAR PRODUCTO</a></li>
+					<li><a href="index.html">QUEJA O RECLAMO</a></li>
+				</ul>
+
+			</section>	
+
+		</aside>
+	</section>
+
+	<footer>
+		<h2>Contacto
+		</h2>
+		<br>
+		<p> Direccion: Cra 10 # 12-14 Bogota, Colombia
+		</p>
+		<p> Telefono: 8252252 - 3162462727
+		</p>
+		<p> Facebook: MySaving
+		</p>
+		<p> Instagram: @MySaving
+		</p>
+		<p> Twitter: @MySaving
+		</p>
+		<p> Youtube: MySaving
+		</p>
+
+	</footer>
+
+
+</body>
+
+</html>
